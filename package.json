@@ -1,0 +1,26 @@
+{
+  "name": "incline",
+  "version": "0.0.1",
+  "description": "Incredible command line interface kit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evotronics/incline"
+  },
+  "bugs": {
+    "url": "https://github.com/evotronics/incline/issues"
+  },
+  "homepage": "https://github.com/evotronics/incline",
+  "keywords": [
+    "cli",
+    "command"
+  ],
+  "author": "David I. Lehn <dil@lehn.org> (http://dil.lehn.org/)",
+  "license": "MIT"
+}

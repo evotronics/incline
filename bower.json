@@ -1,0 +1,25 @@
+{
+  "name": "incline",
+  "description": "Incredible command line interface kit.",
+  "main": "index.js",
+  "authors": [
+    "David I. Lehn <dil@lehn.org> (http://dil.lehn.org/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "command"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "https://github.com/evotronics/incline",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json"
+  ]
+}
