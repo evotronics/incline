@@ -1,4 +1,4 @@
 Incline
 =======
 
-Incredible command line interface library.
+Incredible command line interface kit.
